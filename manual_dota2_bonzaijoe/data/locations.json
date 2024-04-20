@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Clinkz - Get 3 Kills",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Get 5 Assists",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Clinkz - Complete A Game",
+        "category": [],
+        "requires": "|Clinkz|"
+    },
+    {
+        "name": "Juggernaut - Get 3 Kills",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Get 5 Assists",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Juggernaut - Complete A Game",
+        "category": [],
+        "requires": "|Juggernaut|"
+    },
+    {
+        "name": "Meepo - Get 3 Kills",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Get 5 Assists",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Meepo - Complete A Game",
+        "category": [],
+        "requires": "|Meepo|"
+    },
+    {
+        "name": "Kunkka - Get 3 Kills",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Get 5 Assists",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Kunkka - Complete A Game",
+        "category": [],
+        "requires": "|Kunkka|"
+    },
+    {
+        "name": "Batrider - Get 1 Kills",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Get 10 Assists",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Get 10 Denies",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Batrider - Complete A Game",
+        "category": [],
+        "requires": "|Batrider|"
+    },
+    {
+        "name": "Vengeful Spirit - Get 1 Kills",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Get 10 Assists",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Get 10 Denies",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Vengeful Spirit - Complete A Game",
+        "category": [],
+        "requires": "|Vengeful Spirit|"
+    },
+    {
+        "name": "Phantom Lancer - Get 3 Kills",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Get 5 Assists",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Phantom Lancer - Complete A Game",
+        "category": [],
+        "requires": "|Phantom Lancer|"
+    },
+    {
+        "name": "Lone Druid - Get 3 Kills",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Get 5 Assists",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Lone Druid - Complete A Game",
+        "category": [],
+        "requires": "|Lone Druid|"
+    },
+    {
+        "name": "Wraith King - Get 3 Kills",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Get 5 Assists",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Wraith King - Complete A Game",
+        "category": [],
+        "requires": "|Wraith King|"
+    },
+    {
+        "name": "Slark - Get 3 Kills",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Get 5 Assists",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Get 100 Last Hits",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Assist Detroying Tower",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Assist Destroying Barracks",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Assist Killing Roshan",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+        "name": "Slark - Complete A Game",
+        "category": [],
+        "requires": "|Slark|"
+    },
+    {
+    "name": "One Game Completed with Every Included Character",
+    "victory": true,
+    "requires": [
+        "Clinkz",
+        "Juggernaut",
+        "Meepo",
+        "Kunkka",
+        "Batrider",
+        "Vengeful Spirit",
+        "Phantom Lancer",
+        "Lone Druid",
+        "Wraith King",
+        "Slark"
+        ]
+    }
+]

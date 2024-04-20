@@ -1,0 +1,10 @@
+{
+    "game": "dota2",
+    "creator": "bonzaijoe",
+    "filler_item_name": "gl hf",
+    "starting_items": [
+        {
+          "items": ["Kunkka","Phantom Lancer","Wraith King"]
+        }
+    ]
+}
