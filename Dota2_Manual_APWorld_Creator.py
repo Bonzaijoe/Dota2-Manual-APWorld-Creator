@@ -43,6 +43,7 @@ class HeroList:
             "Faceless Void",
             "Grimstroke",
             "Gyrocopter",
+            "Kez"
             "Hoodwink",
             "Huskar",
             "Invoker",
