@@ -43,7 +43,6 @@ class HeroList:
             "Faceless Void",
             "Grimstroke",
             "Gyrocopter",
-            "Kez"
             "Hoodwink",
             "Huskar",
             "Invoker",
@@ -51,6 +50,7 @@ class HeroList:
             "Jakiro",
             "Juggernaut",
             "Keeper of the Light",
+            "Kez",
             "Kunkka",
             "Legion Commander",
             "Leshrac",
